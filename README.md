@@ -8,6 +8,8 @@ Please follow the instructions in [python_testing_exercise.md](https://github.co
 
 ### unittest log
 
+### integration test log
+
 ## Citing
 
 The code used in this exercise is based on [Chapter 7 of the book "Learning Scientific Programming with Python"](https://scipython.com/book/chapter-7-matplotlib/examples/the-two-dimensional-diffusion-equation/).
